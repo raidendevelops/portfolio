@@ -9,9 +9,10 @@ AOS.init({
   const typed = new Typed("#typed-text", {
     strings: [
       "I'm a Web Developer.",
-      "I build amazing websites.",
       "I build stuff for fun",
-      "I can make API's"
+      "I can code in: HTML, JavaScript, C++, Python, Lua, Luau, CSS, and C#",
+      "I've built Roblox games for fun",
+      "I'm a Game Developer",
     ],
     typeSpeed: 50,
     backSpeed: 25,
