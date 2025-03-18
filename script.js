@@ -10,7 +10,8 @@ AOS.init({
     strings: [
       "I'm a Web Developer.",
       "I build amazing websites.",
-      "I turn ideas into reality."
+      "I build stuff for fun",
+      "I can make API's"
     ],
     typeSpeed: 50,
     backSpeed: 25,
